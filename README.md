@@ -111,7 +111,19 @@ Painel de **gestão de base de clientes**:
 
 ---
 
-## 📁 Estrutura da Pasta de Imagens
+##  🔮 Próximos Passos e Melhorias Futuras
+
+### 1. Próximo passo técnico:
+
+A próxima evolução do projeto será conectar as bases de dados a atualizações diárias automáticas. Todo o processo de atualização será migrado para execução na nuvem, garantindo que os vendedores e gestores tenham acesso a dados sempre atualizados, reduzindo atrasos na comunicação e possibilitando decisões mais ágeis.
+
+### 2. Próximos passos operacionais:
+
+Será iniciada uma coleta estruturada de feedbacks junto à equipe de vendas, através de relatórios e formulários de avaliação. O objetivo é compreender quais gráficos e KPIs estão realmente sendo úteis no dia a dia, identificar pontos de melhoria, possíveis exclusões e definir novos indicadores a serem implementados.
+
+---
+
+## 📁 Exemplo de Estrutura da Pasta do Projeto
 
 Abaixo está a estrutura completa do projeto privado, destacando a separação clara entre dados, scripts, modelagem semântica e layout visual. Essa organização foi essencial para garantir escalabilidade, reuso e manutenção ao longo do tempo.
 
@@ -139,14 +151,3 @@ Alufer_pbi/
 │
 ├── Imagens/
 │   └── modelo_dados.png                      # Diagrama do modelo estrela
-
-
-##  🔮 Próximos Passos e Melhorias Futuras
-
-### 1. Próximo passo técnico:
-
-A próxima evolução do projeto será conectar as bases de dados a atualizações diárias automáticas. Todo o processo de atualização será migrado para execução na nuvem, garantindo que os vendedores e gestores tenham acesso a dados sempre atualizados, reduzindo atrasos na comunicação e possibilitando decisões mais ágeis.
-
-### 2. Próximos passos operacionais:
-
-Será iniciada uma coleta estruturada de feedbacks junto à equipe de vendas, através de relatórios e formulários de avaliação. O objetivo é compreender quais gráficos e KPIs estão realmente sendo úteis no dia a dia, identificar pontos de melhoria, possíveis exclusões e definir novos indicadores a serem implementados.
