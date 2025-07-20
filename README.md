@@ -15,11 +15,11 @@ Este projeto demonstra um pipeline completo de BI voltado para análise de venda
 3. **Carga no PostgreSQL**
 4. **Modelagem e visualização no Power BI**
 
-![Pipeline](imagens/Fluxograma.png)
+![Pipeline](imagens/Fluxograma.jpg)
 
 ---
 
-## 🎲 Normalização dos Dados
+## 🎲 Normalização dos Dados com Python
 
 ### 1. Relatório de Vendas
 
