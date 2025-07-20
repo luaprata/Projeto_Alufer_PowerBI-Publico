@@ -15,12 +15,28 @@ Este projeto demonstra um pipeline completo de BI voltado para análise de venda
 3. **Carga no PostgreSQL**
 4. **Modelagem e visualização no Power BI**
 
+![Pipeline](imagens/Fluxograma.png)
+
+---
+
+## 🎲 Normalização dos Dados
+
+### 1. Relatório de Vendas
+
+![RelatórioVendas](imagens/PlanilhaOriginal.png)
+
+### 1. Relatório com dados normalizados
+
+![RelatórioVendas](imagens/PlanilhaNormalizada.png)
+
 ---
 
 ## 📈 Dashboards
 
-- Página **Geral**: Faturamento, % da meta, evolução mensal
+- Página **Geral**: Filtro de vendedor, utilizado em todo dashboard
+- Página **Vendedores**: Faturamento, % da meta, evolução mensal, principio de pareto
 - Página **Cross**: Produtos frequentemente vendidos juntos, sugestões por cliente
+- Página **Clientes**: Clientes ativos, novos e perdidos
 
 ⚠️ *Os dados usados nos exemplos são fictícios ou truncados para fins de demonstração.*
 
